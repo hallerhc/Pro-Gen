@@ -10,7 +10,7 @@ A command line application that prompts the user for required questions and then
 
 * [Contribution](#contribution)
 
-* [Link] (#link)
+* [Link](#link)
 
 ## Installation 
 Node must be installed in order to use the application
